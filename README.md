@@ -90,6 +90,6 @@
  <br><br>
 <b>Διεύθυνση αποθετηρίου GitHub :</b>  https://github.com/4odimotikosyrou/EcoGreenHouse
 <br><br>
-<b>Διεύθυνση βίντεο παρουσίασης : </b>
+<b>Διεύθυνση βίντεο παρουσίασης : https://youtu.be/PSw2R2dmSiw </b>
  <br><br>
 Άδεια χρήσης : CC BY, Creative Commons, αναφορά δημιουργού.
